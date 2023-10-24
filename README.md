@@ -11,8 +11,6 @@ This is a solution to the [Product landing page project for responsive web desig
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -25,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- [View Code]()
-- [Live Preview]()
+- [View Code](https://github.com/elizerdim/product-landing-page)
+- [Live Preview](https://elizerdim.github.io/product-landing-page/)
 
 ## My process
 
