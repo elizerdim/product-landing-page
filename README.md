@@ -1,6 +1,6 @@
-# freeCodeCamp - Product Landing Page solution
+# Product Landing Page - freeCodeCamp Responsive Web Design Certification Projects 4/5
 
-This is a solution to the [Product landing page project for responsive web design certification on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page).
+This is a solution to the [Product Landing Page project for responsive web design certification on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
 
 ## Table of contents
 
